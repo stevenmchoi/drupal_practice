@@ -1,0 +1,4 @@
+name: 'Module Hero'
+description: 'heros'
+type: module
+core: 8.x
